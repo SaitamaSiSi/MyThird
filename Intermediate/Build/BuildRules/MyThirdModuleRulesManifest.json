@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\WorkSpace\\Epic\\Unreal Projects\\MyThird\\Source\\MyThird\\MyThird.Build.cs",
+		"F:\\WorkSpace\\Epic\\Unreal Projects\\MyThird\\Source\\MyThird.Target.cs",
+		"F:\\WorkSpace\\Epic\\Unreal Projects\\MyThird\\Source\\MyThirdEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
